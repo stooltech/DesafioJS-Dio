@@ -1,11 +1,12 @@
 let nomeDoHeroi = "Diego";
-let xpDoHeroi = 9300;
+let xpDoHeroi = 9000;
 let nivelDoHeroi;
 
 
-switch (xpDoHeroi) {
+switch (true) {
     case (xpDoHeroi <= 1000):
         nivelDoHeroi = "Ferro";
+        console.log(`O Herói de nome **${nomeDoHeroi}** está no nível de **${nivelDoHeroi}**`)
         break
     case (xpDoHeroi >= 1001 && xpDoHeroi <= 2000):
         nivelDoHeroi = "Bronze";

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e96c60b-2372-4358-8d25-30b2fa573340" name="Changes" comment="">
+    <list default="true" id="3e96c60b-2372-4358-8d25-30b2fa573340" name="Changes" comment="CodigoAtualizado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
@@ -16,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "stooltech"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/stooltech/DesafioJS-Dio.git",
+    "accountId": "64a13455-6e62-4898-9bbf-9972efd7644b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -61,8 +73,25 @@
       <option name="presentableId" value="Default" />
       <updated>1755264394531</updated>
       <workItem from="1755264396103" duration="1893000" />
-      <workItem from="1755266814388" duration="1880000" />
+      <workItem from="1755266814388" duration="3312000" />
     </task>
+    <task id="LOCAL-00001" summary="CodigoAtualizado">
+      <option name="closed" value="true" />
+      <created>1755268748049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755268748049</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CodigoAtualizado">
+      <option name="closed" value="true" />
+      <created>1755269168976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755269168976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CodigoAtualizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodigoAtualizado" />
   </component>
 </project>
