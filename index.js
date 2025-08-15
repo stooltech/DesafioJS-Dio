@@ -3,7 +3,7 @@ let xpDoHeroi = 9300;
 let nivelDoHeroi;
 
 
-switch (true) {
+switch (xpDoHeroi) {
     case (xpDoHeroi <= 1000):
         nivelDoHeroi = "Ferro";
         break
